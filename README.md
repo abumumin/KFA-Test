@@ -20,3 +20,5 @@ Note:
 The filter was implemented to filter two conditions but it is important to note that the filter will only filter one condition at a time. The reason is that the filter is created in a select tag and select can only act on a single value or option at a time.
 
 A better implementation would be to use a scenario outline to go through the two types of filter selected. Time constrain would not permit that.
+
+Run Tests The test can be run in GUI mode Run npx cypress open --e2e to launch Cypress and select desired browser

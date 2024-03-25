@@ -1,3 +1,2 @@
 node_modules
-/cypress/e2e/amazon/amazon.spec.cy.ts
-/cypress/e2e/amazon.feature
+/cypress/e2e/index.specs.cy.ts

@@ -8,5 +8,5 @@
       "types": ["cypress", "node"]
     },
     "include": [
-        "**/*.ts"]
+        "**/*.ts", "cypress/e2e/amazon/amazon.spec.cy.ts"]
   }

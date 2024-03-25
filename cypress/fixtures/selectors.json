@@ -8,7 +8,7 @@
   "searchField" : "input#twotabsearchtextbox",
   "text" : "JETech",
   "price": "span.a-price[data-a-size=xl]",
-  "lowestPrice" : "img.s-image[data-image-index="3"]",
+  "lowestPrice" : "img.s-image[data-image-index='3']",
   "searchButton": "input#nav-search-submit-button",
   "abtText": "#feature-bullets"
 }

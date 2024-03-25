@@ -37,7 +37,7 @@
 // }
 
 Cypress.Commands.add('clickElement', (element) => { 
-    cy.get(element).should('exist').click()
+    cy.get(element).should('exist').click({force: true  })
 })
 
 
