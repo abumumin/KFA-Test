@@ -1,0 +1,14 @@
+{
+  "hamburger": "[data-action-type='DISMISS']",
+  "hamburger1": ".hm-icon",
+  "computers": "[data-ref-tag='nav_em_1_1_1_7']",
+  "tableAccessories": "#hmenu-content > ul:nth-child(34) > li:nth-child(15) > a",
+  "filterDropdownButton" : "span#a-autoid-0-announce",
+  "newestArrival" : "#s-result-sort-select_4",
+  "searchField" : "input#twotabsearchtextbox",
+  "text" : "JETech",
+  "price": "span.a-price[data-a-size=xl]",
+  "lowestPrice" : "img.s-image[data-image-index="3"]",
+  "searchButton": "input#nav-search-submit-button",
+  "abtText": "#feature-bullets"
+}
